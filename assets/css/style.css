@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+
+img {
+	margin: 0 auto;
+}
+.panel-title {
+	font-size: 24px;
+}
+/*Stick Footer*/
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px;
+}
+.footer, .push {
+    height: 100px; 
+}
+
+#phrase {
+	letter-spacing: 2px;
+	padding: 15px;
+}
+
+.panel-danger>.panel-heading {
+	overflow: auto;
+}
+
